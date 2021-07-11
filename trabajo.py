@@ -56,3 +56,5 @@ def archivos(diccionario):
     return x
 
 print(avistamientos_por_región("ovnis_grande.csv"))
+lol xd
+wenas 
